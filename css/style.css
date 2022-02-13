@@ -43,7 +43,7 @@ body {
 /* main rules */
 
 .card {
-  width: 350px;
+  width: 400px;
   height: fit-content;
   background: hsl(225, 100%, 98%);
   position: absolute;
